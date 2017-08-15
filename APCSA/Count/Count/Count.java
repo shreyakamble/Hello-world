@@ -3,15 +3,17 @@
 // Program: Count
 // Function: counts from 1 to 5 in three different languages
 // **********************************************************
-public class Count{
-    public static void main (String[] args){
-        
+public class Count
+{
+    public static void main (String[] args)
+    {
+        //
         //English
         System.out.println("one two three four five");
-        
+        //
         //French
         System.out.println("un deux trois quatre cinq");
-        
+        //
         //Spanish
         System.out.println("uno dos thres quatro cinco");
     }
