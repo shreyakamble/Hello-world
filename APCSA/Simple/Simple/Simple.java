@@ -4,11 +4,12 @@
 // Print a simple message about Java.
 //*************************************************
 
-public class Simple{
-    public static void main (String[] args){
+public class Simple
+{
+    public static void main (String[] args)
+    {
         System.out.println ("Java rocks!!");
     }
-
 }
 //1. simple: yes, legal identifier. No, not a good name. A capital letter would be better for style.
 //2. SimpleProgram: yes, legal identifier. Yes, a good name.
